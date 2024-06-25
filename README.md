@@ -17,5 +17,6 @@
 
 ## Övningar:
 
-## Lektionsrepon:
+## Slides:
+* [Scrum Intro](https://docs.google.com/presentation/d/1OwxcWGzVYUGwb9rUYC5fEm4Kl9-5WhSkv9G3QT4PLm0/edit?usp=sharing)
 
