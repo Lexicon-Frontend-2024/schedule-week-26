@@ -19,4 +19,5 @@
 
 ## Slides:
 * [Scrum Intro](https://docs.google.com/presentation/d/1OwxcWGzVYUGwb9rUYC5fEm4Kl9-5WhSkv9G3QT4PLm0/edit?usp=sharing)
+* [Scrum 2](https://docs.google.com/presentation/d/15CYHa80ye8QOoOAV4K3tiwxAlGbbOtTZK5zgdh-xUao/edit?usp=sharing)
 
